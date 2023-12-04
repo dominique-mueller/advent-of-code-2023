@@ -1,0 +1,17 @@
+{
+  "name": "advent-of-code-2023",
+  "description": "Installs hugo into your repository.",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dominique-mueller/advent-of-code-2023"
+  },
+  "scripts": {},
+  "devDependencies": {
+    "@types/node": "20.10.x",
+    "ts-node": "10.9.x",
+    "typescript": "5.3.x"
+  }
+}
