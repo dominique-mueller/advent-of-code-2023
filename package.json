@@ -9,7 +9,8 @@
     "url": "https://github.com/dominique-mueller/advent-of-code-2023"
   },
   "scripts": {
-    "day-1": "ts-node ./day-1/day-1.ts"
+    "day-1": "ts-node ./day-1/day-1.ts",
+    "day-2": "ts-node ./day-2/day-2.ts"
   },
   "devDependencies": {
     "@types/node": "20.10.x",
