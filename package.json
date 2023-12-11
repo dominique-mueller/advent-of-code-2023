@@ -11,7 +11,8 @@
   "scripts": {
     "day-1": "ts-node ./day-1/day-1.ts",
     "day-2": "ts-node ./day-2/day-2.ts",
-    "day-3": "ts-node ./day-3/day-3.ts"
+    "day-3": "ts-node ./day-3/day-3.ts",
+    "day-4": "ts-node ./day-4/day-4.ts"
   },
   "devDependencies": {
     "@types/node": "20.10.x",
